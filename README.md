@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name]
+# Hello, I'm Duc
 
-Welcome to my GitHub page! I'm Duc, a student at University of Science in Ho Chi Minh City . My major is software engineering  
+Welcome to my GitHub page! I'm Lien Van Duc, a student at University of Science in Ho Chi Minh City. My major is software engineering  
 
 ## Introduction
 
