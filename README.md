@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name]
 
-Welcome to my GitHub page! I'm [Your Name], a passionate [Your Profession or Hobby] enthusiastic about [Specific Projects or Technologies].
+Welcome to my GitHub page! I'm Duc, a student at University of Science in Ho Chi Minh City . My major is software engineering  
 
 ## Introduction
 
