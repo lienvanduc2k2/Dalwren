@@ -12,7 +12,7 @@ within a team setting. These experiences have enhanced my ability to work effect
 ## Skills
 
 - **Programming Languages**: C/C++ , JavaScript,TypeScript, Java, Kotlin 
-- **Technologies and Frameworks**: React, Bootstrap, MySQL, MongoDB, PostgreSQL
+- **Technologies and Frameworks**: React, Bootstrap, MySQL, MongoDB, PostgreSQL, Nextjs , Nestjs
 - **Other Skills**: Effective Time Management, Ability to Multitask, Ability to Work in a Team   
 
 ## Contact
